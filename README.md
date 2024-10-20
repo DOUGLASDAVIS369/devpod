@@ -1,4 +1,4 @@
-<br>
+#sudo su && git clone https://<br>
 <a href="https://www.devpod.sh">
   <picture width="500">
     <source media="(prefers-color-scheme: dark)" srcset="docs/static/media/devpod_dark.png">
